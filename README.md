@@ -121,5 +121,11 @@ python main.py  # or Jupyter Notebook if using .ipynb
 ## ✨ Author
 
 **Ayush Argonda**  
-🔗 [LinkedIn](https://www.linkedin.com/) | 💻 Machine Learning Enthusiast | 🧠 Building projects from scratch
+🔗 [LinkedIn](https://www.linkedin.com/) 
+
+[🌐 Portfolio ](https://profound-alpaca-ec7224.netlify.app/)
+
+[📝 Medium ](https://medium.com/@ayushargonda6787)
+
+| 💻 Machine Learning Enthusiast | 🧠 Building projects from scratch
 
